@@ -1,0 +1,32 @@
+aid: justmeme-wtf
+name: justmeme.wtf
+description: "Free meme API with 2400+ templates, search, trending, and AI generation"
+url: https://justmeme.wtf/api-docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Entertainment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Entertainment
+  - Public APIs
+apis:
+  - name: justmeme.wtf
+    description: "Free meme API with 2400+ templates, search, trending, and AI generation"
+    humanURL: https://justmeme.wtf/api-docs
+    baseURL: https://justmeme.wtf/api-docs
+    tags:
+      - Entertainment
+    properties:
+      - type: Documentation
+        url: https://justmeme.wtf/api-docs
+common:
+  - type: Website
+    url: https://justmeme.wtf/api-docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
