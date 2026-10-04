@@ -39,7 +39,6 @@ apis:
   - name: justmeme.wtf
     description: "Free meme API with 2400+ templates, search, trending, and AI generation"
     humanURL: https://justmeme.wtf/api-docs
-    baseURL: https://justmeme.wtf/api-docs
     tags:
       - Entertainment
     properties:
